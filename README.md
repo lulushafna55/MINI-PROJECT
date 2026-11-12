@@ -47,6 +47,7 @@ Sales by Region
 Sales by State
 Sales by Category
 Sales by Sub-category
+
 Dashboard 2: Profit & Customer Analysis
 
 Total Profit by Sub-category
@@ -55,6 +56,7 @@ Profit by Segment
 Sales and Profit by Customer
 Top 10 Customers by Sales
 Sales Target Analysis
+
 Key DAX Measures
 
 Total Sales
@@ -65,10 +67,12 @@ Total Quantity
 Average Order Value
 Profit Margin
 Average Profit
+
 Project Files
 
 Power BI dashboard file (.pbix)
 Dashboard screenshots
+
 Conclusion
 
 This project demonstrates the use of Excel, Power Query, and Power BI for data cleaning, analysis, and visualization. The interactive dashboards provide insights into sales performance, profitability, and customer trends.
