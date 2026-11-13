@@ -57,6 +57,17 @@ Sales and Profit by Customer
 Top 10 Customers by Sales
 Sales Target Analysis
 
+
+Dashboard 3: Order & Shipping Analysis
+
+Sales Performance Matrix by Region, State, and Category
+Detailed Order Information Table
+Monthly Quantity Trend by Category (Stacked Area Chart)
+Sales Breakdown Analysis (Decomposition Tree)
+Order Distribution by Shipping Mode (Pie Chart)
+
+
+
 Key DAX Measures
 
 Total Sales
